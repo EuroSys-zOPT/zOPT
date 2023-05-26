@@ -1,0 +1,6 @@
+[submodule "minmaxheap-cpp"]
+	path = minmaxheap-cpp
+	url = https://github.com/itsjohncs/minmaxheap-cpp
+[submodule "readerwriterqueue"]
+	path = readerwriterqueue
+	url = https://github.com/cameron314/readerwriterqueue
